@@ -1,5 +1,5 @@
 numba
 colour-science
-rembg
+https://github.com/dqd/rembg/archive/refs/heads/main.zip
 pixeloe
 transparent-background
